@@ -1,0 +1,4 @@
+Compile: javac CourseEnrollmentSys.java
+
+Run: 	 java -classpath ./ojdbc6.jar: CourseEnrollmentSys
+ 
